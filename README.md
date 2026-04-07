@@ -4,3 +4,6 @@ This repository contains the code for some of my larger Arduino and breadboardin
 **If you're looking for a showcase:** my [Piano](https://github.com/NotchArrow/Arduino/tree/main/Piano) project is my personal favorite here as of writing, and it includes videos of some of the songs that I played on it.
 
 **If you're interested in programming or technical details:** look at the [Button](https://github.com/NotchArrow/Arduino/tree/main/CustomLibraries/Button) library and see if it can be adapted for your own projects, or contact me and ask about what I'm currently working on.
+
+My first Arduino circuit. A LED with a resistor and a pushbutton to complete the circuit and power it on. Only uses the Arduino as a 5V power supply.
+![First Circuit](https://github.com/user-attachments/assets/672122cb-edc0-42df-bcc6-526f19ccc745)
